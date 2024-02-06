@@ -81,7 +81,7 @@ const Projects = ( {nightMode} ) => {
               <video src="https://res.cloudinary.com/do0s2lutu/video/upload/v1707071675/cocineta-video_k0d1fm.mp4" controls></video>
             </div>
             <div className="container__info">
-              <p>Segundo proyecto también con HTML y CSS, esta vez tomando como inspiración una acedemia online de cocina.</p>
+              <p>Segundo proyecto también con HTML y CSS, esta vez tomando como inspiración una academia online de cocina.</p>
               <div className='container__links'>
                 <Link to="https://github.com/Roissm90/cokking-project" target='_blank' rel='noopener'>
                   <span>Front</span>

@@ -46,7 +46,7 @@ const AboutMe = ({ nightMode }) => {
           <li>Hola, soy <h1>Santiago Martínez Rois</h1></li>
           <li>Nací en Madrid, el 30/04/1990</li>
           <li>Soy Web Developer enfocado al Front-End, como tal me esfuerzo por un buen acabado de mis proyectos</li>
-          <li>Me apasiona todo lo referente a la maquetacion y efectos en los proyectos en los que trabajo, creo firmemente en la importancia de las webs  dinámicas y atractvias para el usuario</li>
+          <li>Me apasiona todo lo referente a la maquetacion y efectos en los proyectos en los que trabajo, creo firmemente en la importancia de las webs  dinámicas y atractivas para el usuario</li>
           <li>Como Web Developer, estoy comprometido con el aprendizaje continuo y seguir explorando nuevas tecnologías y participar en proyectos  desafiantes que me permitan crecer profesionalmente y contribuir al éxito de mi equipo.</li>
           <li>Aquí te dejo mi CV por si quieres echarle un vistazo. <a href="#" onClick={handleDownloadClick}>CV</a></li>
         </ul>
